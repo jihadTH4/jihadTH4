@@ -24,11 +24,11 @@ I'm a computer engineering student who enjoys building practical software and un
 
 ## 🚀 What I'm Working On
 
-- 🔹 Learning C# and .NET
-- 🔹 Building backend applications
-- 🔹 Practicing object-oriented programming
-- 🔹 Exploring ASP.NET Core
-- 🔹 Building projects for my portfolio
+-  Learning C# and .NET
+-  Building backend applications
+-  Practicing object-oriented programming
+-  Exploring ASP.NET Core
+-  Building projects for my portfolio
 
 ---
 
